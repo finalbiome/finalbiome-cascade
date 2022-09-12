@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/finalbiome/finalbiome-cascade/compare/v1.0.0...v1.0.1) (2022-09-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency jest to v29 ([7e2ab3e](https://github.com/finalbiome/finalbiome-cascade/commit/7e2ab3e94a47fec3db9770a25bc0a909c3fcea13))
+* **deps:** update dependency ts-jest to v29 ([30743f3](https://github.com/finalbiome/finalbiome-cascade/commit/30743f3080260bc590e7322afd73affe1cb4e75b))
+
 ## 1.0.0 (2022-09-12)
 
 
