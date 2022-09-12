@@ -16,7 +16,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@polkadot/api": "^9.2.4",
+    "@polkadot/api": "^9.3.3",
     "dotenv": "^16.0.2"
   },
   "devDependencies": {
