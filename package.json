@@ -1,6 +1,6 @@
 {
   "name": "finalbiome-cascade",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "FinalBiome End-to-End Tests",
   "main": "dist/index.js",
   "scripts": {
